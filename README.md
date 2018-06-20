@@ -14,7 +14,7 @@ smsStartTransaction(1, 981, 'client IP address', 'description', 'EN', function(d
 });
 ```
 
-Inspired by plugandplay 🙂
+Inspired by @plugandplay 🙂
 
 Simple? Hit a star! 😁
 Anything needs clarification? Ready to help 😉 
