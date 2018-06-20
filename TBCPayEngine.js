@@ -211,7 +211,3 @@ function makeRP(amount, currency, clientIpAddress, description, recPaymentId, ca
         callBack(err, data);
     })
 }
-
-smsStartTransaction(1, 981, 'client IP address', 'description', 'EN', function(data) {
-    console.log(data)
-});
